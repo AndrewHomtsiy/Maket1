@@ -1,0 +1,31 @@
+@media  screen and (max-width: 1028px) {
+	.col-lg-3{
+		text-align: center;
+	}
+}
+.menu {
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+.menu__item{
+	font-size: 18px;
+}
+button{
+margin-bottom: 2%;
+margin-left: 35%;
+}
+.history__text{
+font-size: 18px;
+}
+.history__title{
+	font-size: 42px;
+}
+.phone__text{
+	font-size: 19px;
+}
+.phone__digits{
+	font-size: 38px;
+}
+.credits {
+	font-size: 18px ;
+}
